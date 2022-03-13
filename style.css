@@ -19,6 +19,9 @@
 .rightbox{
     margin-left: 230px;
     border-left:2px dotted #F00;
+    border-right:2px dotted #F00;
+    border-top:2px dotted #F00;
+    border-bottom:2px dotted #F00;
     /*
     background-color: hsl(140, 100%, 50%);
     */
